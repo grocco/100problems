@@ -62,6 +62,13 @@ opam list --all ocaml-lsp-server
 opam install ocaml-lsp-server=<version>
 ```
 
+### To format Ocaml
+
+```bash
+opam install ocamlformat
+ocamlformat --print-config > .ocamlformat
+```
+
 ## First exercise - Tail of a List
 
 This is the expected behavior:
@@ -71,5 +78,16 @@ This is the expected behavior:
 - : string option = Some "d"
 # last [];;
 - : 'a option = None
+```
+
+## Second exercise - Last Two elements of a List
+
+Expectations:
+
+```Ocaml
+# last_two ["a"; "b"; "c"; "d"];;
+- : (string * string) option = Some ("c", "d")
+# last_two ["a"];;
+- : (string * string) option = None
 ```
 
