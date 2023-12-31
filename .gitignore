@@ -18,3 +18,7 @@ _opam/
 *.log
 *.cache
 *~
+
+# executable files
+*.exe
+test
