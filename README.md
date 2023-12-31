@@ -1,6 +1,8 @@
 # 100problems
 100 problems solved in a multitude of languages
 
+Languages used: OCaml, Rust
+
 
 ## Day 1 - Ocaml intro
 
@@ -80,6 +82,10 @@ This is the expected behavior:
 - : 'a option = None
 ```
 
+Solved in: 
+- [x] Ocaml
+- [x] Rust
+
 ## Second exercise - Last Two elements of a List
 
 Expectations:
@@ -91,3 +97,6 @@ Expectations:
 - : (string * string) option = None
 ```
 
+Solved in: 
+- [x] Ocaml
+- [x] Rust
