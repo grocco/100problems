@@ -150,3 +150,18 @@ Solved in:
 - [x] [Rust](https://github.com/grocco/100problems/tree/main/Exercise4/Rust)
 
 </details>
+
+
+<details>
+<summary>5.) Reverse a List</summary>
+
+```Ocaml
+# rev ["a"; "b"; "c"];;
+- : string list = ["c"; "b"; "a"]
+```
+
+Solved in: 
+- [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise5/Ocaml)
+- [ ] [Rust](https://github.com/grocco/100problems/tree/main/Exercise5/Rust)
+
+</details>
