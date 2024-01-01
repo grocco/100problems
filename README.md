@@ -147,6 +147,6 @@ OCaml standard library has `List.length` but we ask that you reimplement it. Bon
 
 Solved in: 
 - [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise4/Ocaml)
-- [ ] [Rust](https://github.com/grocco/100problems/tree/main/Exercise4/Rust)
+- [x] [Rust](https://github.com/grocco/100problems/tree/main/Exercise4/Rust)
 
 </details>
