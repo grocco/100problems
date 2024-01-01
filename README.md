@@ -83,8 +83,8 @@ This is the expected behavior:
 ```
 
 Solved in: 
-- [x] Ocaml
-- [x] Rust
+- [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise1/Ocaml)
+- [x] [Rust](https://github.com/grocco/100problems/tree/main/Exercise1/Rust)
 
 ## Second exercise - Last Two elements of a List
 
@@ -98,8 +98,8 @@ Expectations:
 ```
 
 Solved in: 
-- [x] Ocaml
-- [x] Rust
+- [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise2/Ocaml)
+- [x] [Rust](https://github.com/grocco/100problems/tree/main/Exercise2/Rust)
 
 ## Third exercise - N'th element of a List
 
@@ -111,6 +111,7 @@ Expectations:
 # List.nth ["a"] 2;;
 Exception: Failure "nth".
 ```
+
 Solved in: 
-- [x] Ocaml
-- [x] Rust
+- [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise3/Ocaml)
+- [x] [Rust](https://github.com/grocco/100problems/tree/main/Exercise3/Rust)
