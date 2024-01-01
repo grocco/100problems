@@ -4,7 +4,11 @@
 Languages used: OCaml, Rust
 
 
-## Day 1 - Ocaml intro
+## General setup
+
+<details>
+
+<summary>Installation of OCaml and setup</summary>
 
 ### Install O'caml
 
@@ -70,10 +74,13 @@ opam install ocaml-lsp-server=<version>
 opam install ocamlformat
 ocamlformat --print-config > .ocamlformat
 ```
+</details>
 
-## First exercise - Tail of a List
+## Exercises
 
-This is the expected behavior:
+<details>
+
+<summary>1.) Tail of a List</summary>
 
 ```Ocaml
 # last ["a" ; "b" ; "c" ; "d"];;
@@ -86,9 +93,12 @@ Solved in:
 - [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise1/Ocaml)
 - [x] [Rust](https://github.com/grocco/100problems/tree/main/Exercise1/Rust)
 
-## Second exercise - Last Two elements of a List
 
-Expectations:
+</details>
+
+<details>
+
+<summary>2.) Last Two elements of a List</summary>
 
 ```Ocaml
 # last_two ["a"; "b"; "c"; "d"];;
@@ -101,9 +111,12 @@ Solved in:
 - [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise2/Ocaml)
 - [x] [Rust](https://github.com/grocco/100problems/tree/main/Exercise2/Rust)
 
-## Third exercise - N'th element of a List
 
-Expectations:
+</details>
+
+<details>
+
+<summary>3.) N'th element of a List</summary>
 
 ```Ocaml
 # List.nth ["a"; "b"; "c"; "d"; "e"] 2;;
@@ -115,3 +128,5 @@ Exception: Failure "nth".
 Solved in: 
 - [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise3/Ocaml)
 - [x] [Rust](https://github.com/grocco/100problems/tree/main/Exercise3/Rust)
+
+</details>
