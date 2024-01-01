@@ -41,4 +41,5 @@ fn main() {
     // So &[2, 3][..] is a slice of the array from the first element to the last element
     // And &[2, 3][..] is the same as &[2, 3], howeverm their types are different,
     // the first is a slice of the array and the second is a reference to the array
+    println!("All tests passed!");
 }

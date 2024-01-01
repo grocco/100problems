@@ -7,4 +7,5 @@ fn main() {
     assert_eq!(last(&['a', 'b', 'c']), Some(&'c'));
     assert_eq!(last(&["a", "b", "c"]), Some(&"c"));
     assert_eq!(last::<i32>(&[]), None);
+    println!("All tests passed!");
 }

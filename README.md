@@ -100,3 +100,17 @@ Expectations:
 Solved in: 
 - [x] Ocaml
 - [x] Rust
+
+## Third exercise - N'th element of a List
+
+Expectations:
+
+```Ocaml
+# List.nth ["a"; "b"; "c"; "d"; "e"] 2;;
+- : string = "c"
+# List.nth ["a"] 2;;
+Exception: Failure "nth".
+```
+Solved in: 
+- [x] Ocaml
+- [x] Rust
