@@ -13,3 +13,5 @@ let test_last_two () =
   print_result [ "a"; "b"; "c"; "d" ]
 
 let () = test_last_two ()
+let () = Printf.printf "Exercise2.test_last_two: OK\n"
+

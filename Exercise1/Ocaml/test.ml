@@ -8,3 +8,4 @@ let test_last () =
   print_result []
 
 let () = test_last ()
+let () = Printf.printf "Exercise1.test_last: OK\n"

@@ -130,3 +130,23 @@ Solved in:
 - [x] [Rust](https://github.com/grocco/100problems/tree/main/Exercise3/Rust)
 
 </details>
+
+<details>
+<summary>4.) Length of a List</summary>
+
+#### Find the number of elements of a list.
+
+OCaml standard library has `List.length` but we ask that you reimplement it. Bonus for a [tail recursive](https://en.wikipedia.org/wiki/Tail_call) solution.
+
+```Ocaml
+# length ["a"; "b"; "c"];;
+- : int = 3
+# length [];;
+- : int = 0
+```
+
+Solved in: 
+- [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise4/Ocaml)
+- [ ] [Rust](https://github.com/grocco/100problems/tree/main/Exercise4/Rust)
+
+</details>

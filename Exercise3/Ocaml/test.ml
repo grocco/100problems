@@ -23,3 +23,5 @@ let () = assert (try let _ = MyList.at 3 [1; 2; 3] in false with Failure _ -> tr
 (* However, since the try-with expression will always fail, the "in false" part will never be evaluated *)
 (* So the "in false" part is just a dummy expression that will never be evaluated *)
 (* And the try-with expression will always fail, so the assert function will always pass *)
+let () = Printf.printf "MyList.nth: OK\n"
+let () = Printf.printf "MyList.at: OK\n"
