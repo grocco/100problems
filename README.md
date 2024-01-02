@@ -111,6 +111,7 @@ Solved in:
 Solved in: 
 - [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise2/Ocaml)
 - [x] [Rust](https://github.com/grocco/100problems/tree/main/Exercise2/Rust)
+- [ ] [Go](https://github.com/grocco/100problems/tree/main/Exercise2/Go)
 
 
 </details>
@@ -129,6 +130,7 @@ Exception: Failure "nth".
 Solved in: 
 - [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise3/Ocaml)
 - [x] [Rust](https://github.com/grocco/100problems/tree/main/Exercise3/Rust)
+- [ ] [Go](https://github.com/grocco/100problems/tree/main/Exercise3/Go)
 
 </details>
 
@@ -149,6 +151,7 @@ OCaml standard library has `List.length` but we ask that you reimplement it. Bon
 Solved in: 
 - [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise4/Ocaml)
 - [x] [Rust](https://github.com/grocco/100problems/tree/main/Exercise4/Rust)
+- [ ] [Go](https://github.com/grocco/100problems/tree/main/Exercise4/Go)
 
 </details>
 
@@ -164,5 +167,24 @@ Solved in:
 Solved in: 
 - [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise5/Ocaml)
 - [ ] [Rust](https://github.com/grocco/100problems/tree/main/Exercise5/Rust)
+- [ ] [Go](https://github.com/grocco/100problems/tree/main/Exercise5/Go)
+
+</details>
+
+
+<details>
+<summary>6.) Is palindrome?</summary>
+
+```Ocaml
+# is_palindrome ["x"; "a"; "m"; "a"; "x"];;
+- : bool = true
+# not (is_palindrome ["a"; "b"]);;
+- : bool = true
+```
+
+Solved in: 
+- [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise6/Ocaml)
+- [ ] [Rust](https://github.com/grocco/100problems/tree/main/Exercise6/Rust)
+- [ ] [Go](https://github.com/grocco/100problems/tree/main/Exercise6/Go)
 
 </details>
