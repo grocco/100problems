@@ -1,7 +1,7 @@
 # 100problems
 100 problems solved in a multitude of languages
 
-Languages used: OCaml, Rust
+Languages used: OCaml, Rust, Go
 
 
 ## General setup
@@ -92,6 +92,7 @@ ocamlformat --print-config > .ocamlformat
 Solved in: 
 - [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise1/Ocaml)
 - [x] [Rust](https://github.com/grocco/100problems/tree/main/Exercise1/Rust)
+- [x] [Go](https://github.com/grocco/100problems/tree/main/Exercise1/Go)
 
 
 </details>
