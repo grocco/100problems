@@ -1,8 +1,7 @@
 # 100problems
-100 problems solved in a multitude of languages
+100 problems from the [OCaml offical website](https://ocaml.org/exercises) solved in a multitude of languages
 
 Languages used: OCaml, Rust, Go
-
 
 ## General setup
 
