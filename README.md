@@ -187,3 +187,25 @@ Solved in:
 - [ ] [Go](https://github.com/grocco/100problems/tree/main/Exercise6/Go)
 
 </details>
+
+
+<details>
+<summary>7.) Flatten a list</summary>
+
+```Ocaml
+type 'a node =
+  | One of 'a 
+  | Many of 'a node list
+```
+
+```Ocaml
+# flatten [One "a"; Many [One "b"; Many [One "c" ;One "d"]; One "e"]];;
+- : string list = ["a"; "b"; "c"; "d"; "e"]
+```
+
+Solved in: 
+- [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise7/Ocaml)
+- [ ] [Rust](https://github.com/grocco/100problems/tree/main/Exercise7/Rust)
+- [ ] [Go](https://github.com/grocco/100problems/tree/main/Exercise7/Go)
+
+</details>
