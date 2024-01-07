@@ -21,7 +21,7 @@ _opam/
 
 # executable files
 *.exe
-test
+**/O[C|c]aml/test
 
 
 # Rust
@@ -78,3 +78,17 @@ go.mod
 # Go workspace files
 .golangci.yml
 .golangci.toml
+
+
+# Elixir-specific ignores
+
+# Compiled files
+**/Elixir/**/_build/
+**/Elixir/**/deps/
+**/Elixir/**/*.ez
+
+# Generated on crash by the VM
+**/Elixir/**/erl_crash.dump
+
+# Static artifacts from dependencies
+**/Elixir/**/priv/static/

@@ -1,7 +1,7 @@
 # 100problems
 100 problems from the [OCaml offical website](https://ocaml.org/exercises) solved in a multitude of languages
 
-Languages used: OCaml, Rust, Go
+Languages used: OCaml, Rust, Go, Elixir
 
 ## General setup
 
@@ -79,7 +79,7 @@ ocamlformat --print-config > .ocamlformat
 
 <details>
 
-<summary>1.) Tail of a List</summary>
+<summary>1.) Last element of a list</summary>
 
 ```Ocaml
 # last ["a" ; "b" ; "c" ; "d"];;
@@ -92,6 +92,7 @@ Solved in:
 - [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise1/Ocaml)
 - [x] [Rust](https://github.com/grocco/100problems/tree/main/Exercise1/Rust)
 - [x] [Go](https://github.com/grocco/100problems/tree/main/Exercise1/Go)
+- [x] [Elixir](https://github.com/grocco/100problems/tree/main/Exercise1/Elixir)
 
 
 </details>
@@ -111,6 +112,7 @@ Solved in:
 - [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise2/Ocaml)
 - [x] [Rust](https://github.com/grocco/100problems/tree/main/Exercise2/Rust)
 - [ ] [Go](https://github.com/grocco/100problems/tree/main/Exercise2/Go)
+- [ ] [Elixir](https://github.com/grocco/100problems/tree/main/Exercise2/Elixir)
 
 
 </details>
@@ -130,6 +132,7 @@ Solved in:
 - [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise3/Ocaml)
 - [x] [Rust](https://github.com/grocco/100problems/tree/main/Exercise3/Rust)
 - [ ] [Go](https://github.com/grocco/100problems/tree/main/Exercise3/Go)
+- [ ] [Elixir](https://github.com/grocco/100problems/tree/main/Exercise3/Elixir)
 
 </details>
 
@@ -151,6 +154,7 @@ Solved in:
 - [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise4/Ocaml)
 - [x] [Rust](https://github.com/grocco/100problems/tree/main/Exercise4/Rust)
 - [ ] [Go](https://github.com/grocco/100problems/tree/main/Exercise4/Go)
+- [ ] [Elixir](https://github.com/grocco/100problems/tree/main/Exercise4/Elixir)
 
 </details>
 
@@ -167,6 +171,7 @@ Solved in:
 - [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise5/Ocaml)
 - [ ] [Rust](https://github.com/grocco/100problems/tree/main/Exercise5/Rust)
 - [ ] [Go](https://github.com/grocco/100problems/tree/main/Exercise5/Go)
+- [ ] [Elixir](https://github.com/grocco/100problems/tree/main/Exercise5/Elixir)
 
 </details>
 
@@ -185,6 +190,7 @@ Solved in:
 - [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise6/Ocaml)
 - [ ] [Rust](https://github.com/grocco/100problems/tree/main/Exercise6/Rust)
 - [ ] [Go](https://github.com/grocco/100problems/tree/main/Exercise6/Go)
+- [ ] [Elixir](https://github.com/grocco/100problems/tree/main/Exercise6/Elixir)
 
 </details>
 
@@ -207,5 +213,5 @@ Solved in:
 - [x] [Ocaml](https://github.com/grocco/100problems/tree/main/Exercise7/Ocaml)
 - [ ] [Rust](https://github.com/grocco/100problems/tree/main/Exercise7/Rust)
 - [ ] [Go](https://github.com/grocco/100problems/tree/main/Exercise7/Go)
-
+- [ ] [Elixir](https://github.com/grocco/100problems/tree/main/Exercise7/Elixir)
 </details>
